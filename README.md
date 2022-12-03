@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/72457200/205451186-4f6d193d-b687-43cf-9586-d388cb932bb5.gif" />
 </p>
   
-<h1 align="center">Hi 👋, I'm Mert Ali</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">, I'm Mert Ali</h1>
 <h3 align="center">Mobile App Developer</h3>
 
 - 🔭 I’m currently working on [Chat App](https://github.com/mrthnby/chat-app)
