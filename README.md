@@ -55,6 +55,15 @@
 </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrthnby&show_icons=true&locale=en&layout=compact" alt="mrthnby" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrthnby&show_icons=true&locale=en" alt="mrthnby" />
+
 </p>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrthnby&show_icons=true&locale=en&layout=compact" alt="mrthnby" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrthnby&show_icons=true&locale=en" alt="mrthnby" />
+    </div>
+  </div>
+</div>
+
