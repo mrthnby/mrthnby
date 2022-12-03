@@ -1,5 +1,7 @@
-![MsterHead](https://user-images.githubusercontent.com/72457200/205451068-7b62dad9-caef-4da3-9a86-dd0694a754aa.gif)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72457200/205451186-4f6d193d-b687-43cf-9586-d388cb932bb5.gif" />
+</p>
+  
 <h1 align="center">Hi 👋, I'm Mert Ali</h1>
 <h3 align="center">Mobile App Developer</h3>
 
