@@ -11,13 +11,11 @@
 
 - 💬 Ask me about **Flutter, Dart**
 
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mrthnby" target="_blank"  rel="noopener noreferrer" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrthnby" height="30" width="40" /></a>
 </p>
 
-<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
@@ -58,7 +56,6 @@
 </a> 
 </p>
 
-<br>
 <h3 align="left">My Stats:</h3>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrthnby&theme=onedark&hide_border=true&border_radius=4.7)
