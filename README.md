@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">, I'm Mert Ali</h1>
 <h3 align="center">Mobile Developer</h3>
 
-- 🔭 I’m currently working on [YKS Yazar Eser](https://yazareser.com/)
+- 🔭 I’m currently working on [YKS Yazar Eser](www.yazareser.com)
 
 - 🌱 I’m currently learning **Flutter**
 
