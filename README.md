@@ -66,4 +66,7 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrthnby&theme=onedark&hide_border=true&border_radius=4.7)
 ![Stats](https://github-readme-stats.vercel.app/api?username=mrthnby&show_icons=true&locale=en&theme=onedark&hide_border=true&border_radius=4.7)
+<!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrthnby&layout=compact&theme=onedark&hide_border=true&border_radius=4.7)
+--->
+
