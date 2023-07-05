@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a AI Chat Bot App
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Swift, Flutter**
 
 - 💬 Ask me about **Flutter, Dart**
 
