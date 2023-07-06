@@ -17,12 +17,12 @@
   💬 Ask me about <strong>Flutter, Dart</strong>
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://twitter.com/mrthnby" target="_blank" rel="noopener noreferrer" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrthnby" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
@@ -61,14 +61,14 @@
   </a>
 </p>
 
-<h3 align="center">My Apps:</h3>
+<h3 align="center">My Apps</h3>
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.yazareser.yks_yazar_eser" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/72457200/218078410-f97307f5-d351-4937-9135-6d6dab4f6da6.png" alt="Yazar Eser : YKS, AYT Edebiyat" width="150" height="150" style="border-radius:100"/>
   </a>
 </p>
 
-<h3 align="center">My Stats:</h3>
+<h3 align="center">My Stats</h3>
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mrthnby&theme=onedark&hide_border=true&border_radius=4.7" alt="GitHub Streak"/>
