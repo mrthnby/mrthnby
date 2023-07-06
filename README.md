@@ -1,72 +1,79 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72457200/205451186-4f6d193d-b687-43cf-9586-d388cb932bb5.gif" />
+  <img src="https://user-images.githubusercontent.com/72457200/205451186-4f6d193d-b687-43cf-9586-d388cb932bb5.gif" />
 </p>
-  
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">, I'm Mert Ali</h1>
+
+<h1 align="center">Hi <img src="https://github.com/mrthnby/mrthnby/assets/72457200/7b632147-6cdc-478d-ac09-9622a9cb73a0" width="40">, I'm Mert Ali</h1>
 <h3 align="center">Mobile Developer</h3>
 
-- 🔭 I’m currently working on a AI Chat Bot App
-
-- 🌱 I’m currently learning **Swift, Flutter**
-
-- 💬 Ask me about **Flutter, Dart**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mrthnby" target="_blank"  rel="noopener noreferrer" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrthnby" height="30" width="40" /></a>
+<p align="center">
+  🔭 I’m currently working on a AI Chat Bot App
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-</a> 
-
-<a href="https://dart.dev" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-</a>
-
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a> 
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a> 
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a> 
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a> 
-  
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
+<p align="center">
+  🌱 I’m currently learning <strong>Swift, Flutter</strong>
 </p>
 
-<h3 align="left">My Apps:</h3>
-<a href="https://play.google.com/store/apps/details?id=com.yazareser.yks_yazar_eser" target="_blank" rel="noreferrer">
-<img src="https://user-images.githubusercontent.com/72457200/218078410-f97307f5-d351-4937-9135-6d6dab4f6da6.png" alt="Yazar Eser : YKS, AYT Edebiyat" width="150" height="150" style="border-radius:100"/> 
-</a> 
+<p align="center">
+  💬 Ask me about <strong>Flutter, Dart</strong>
+</p>
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://twitter.com/mrthnby" target="_blank" rel="noopener noreferrer" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrthnby" height="30" width="40" /></a>
+</p>
 
-<h3 align="left">My Stats:</h3>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrthnby&theme=onedark&hide_border=true&border_radius=4.7)
-![Stats](https://github-readme-stats.vercel.app/api?username=mrthnby&show_icons=true&locale=en&theme=onedark&hide_border=true&border_radius=4.7)
-<!---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrthnby&layout=compact&theme=onedark&hide_border=true&border_radius=4.7)
---->
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  </a>
 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="center">My Apps:</h3>
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.yazareser.yks_yazar_eser" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/72457200/218078410-f97307f5-d351-4937-9135-6d6dab4f6da6.png" alt="Yazar Eser : YKS, AYT Edebiyat" width="150" height="150" style="border-radius:100"/>
+  </a>
+</p>
+
+<h3 align="center">My Stats:</h3>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=mrthnby&theme=onedark&hide_border=true&border_radius=4.7" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrthnby&show_icons=true&locale=en&theme=onedark&hide_border=true&border_radius=4.7" alt="Stats"/>
+</p>
