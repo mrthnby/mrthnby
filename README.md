@@ -61,12 +61,34 @@
   </a>
 </p>
 
+
 <h3 align="center">My Apps</h3>
-<p align="center">
+
+<div align="center">
   <a href="https://play.google.com/store/apps/details?id=com.yazareser.yks_yazar_eser" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/72457200/218078410-f97307f5-d351-4937-9135-6d6dab4f6da6.png" alt="Yazar Eser : YKS, AYT Edebiyat" width="150" height="150" style="border-radius:100"/>
+    <img src="https://user-images.githubusercontent.com/72457200/218078410-f97307f5-d351-4937-9135-6d6dab4f6da6.png" alt="Yazar Eser: YKS, AYT Edebiyat" width="100" height="100" style="border-radius: 25px;">
   </a>
+</div>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.yazareser.yks_yazar_eser" target="_blank" rel="noreferrer"><strong>Yazar Eser: YKS, AYT Edebiyat</strong></a>
 </p>
+
+<div align="center">
+  
+  
+  Downloads: <strong>5k+</strong>
+  <br>
+  Stars: <strong>4.8⭐</strong>
+</div>
+
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.yazareser.yks_yazar_eser" target="_blank" rel="noreferrer">
+    <img width="200" alt="yazar_eser_home" src="https://github.com/mrthnby/mrthnby/assets/72457200/c78e989e-fcd6-4b0f-a156-39be6a3ead87">
+  </a>
+
+</div>
+
 
 <h3 align="center">My Stats</h3>
 
