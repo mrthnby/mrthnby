@@ -32,6 +32,11 @@
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   </a>
 
+  <a href="https://www.swift.org/" target="_blank" rel="noreferrer">
+    <img src="https://developer.apple.com/swift/images/swift-logo.svg" alt="swift" height="40" />
+  </a>
+  
+
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
