@@ -94,6 +94,7 @@
 
 </div>
 
+<!---
 
 <h3 align="center">My Stats</h3>
 
@@ -104,3 +105,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrthnby&show_icons=true&locale=en&theme=onedark&hide_border=true&border_radius=4.7" alt="Stats"/>
 </p>
+
+-->
+
