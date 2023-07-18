@@ -84,7 +84,7 @@
 
 <div align="center">
   <a href="https://play.google.com/store/apps/details?id=com.yazareser.yks_yazar_eser" target="_blank" rel="noreferrer">
-    <img width="200" alt="yazar_eser_home" src="https://github.com/mrthnby/mrthnby/assets/72457200/c78e989e-fcd6-4b0f-a156-39be6a3ead87">
+    <img width="250" alt="yazar_eser_home" src="https://github.com/mrthnby/mrthnby/assets/72457200/c78e989e-fcd6-4b0f-a156-39be6a3ead87">
   </a>
 
 </div>
