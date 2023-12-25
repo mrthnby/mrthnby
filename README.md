@@ -6,7 +6,7 @@
 <h3 align="center">Mobile Developer</h3>
 
 <p align="center">
-  🔭 I’m currently working on a AI Chat Bot App
+  🔭 I’m currently working on a Gym App
 </p>
 
 <p align="center">
