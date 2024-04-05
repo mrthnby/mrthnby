@@ -62,9 +62,9 @@
 <div align="center">
   
   
-  Downloads: <strong>10k+</strong>
+  Downloads: <strong>25k+</strong>
   <br>
-  Stars: <strong>4.8⭐</strong>
+  Stars: <strong>4.5⭐</strong>
 </div>
 
 <div align="center">
