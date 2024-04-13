@@ -60,8 +60,6 @@
 </p>
 
 <div align="center">
-  
-  
   Downloads: <strong>25k+</strong>
   <br>
   Stars: <strong>4.5⭐</strong>
@@ -71,7 +69,18 @@
   <a href="https://play.google.com/store/apps/details?id=com.yazareser.yks_yazar_eser" target="_blank" rel="noreferrer">
     <img width="250" alt="yazar_eser_home" src="https://github.com/mrthnby/mrthnby/assets/72457200/c78e989e-fcd6-4b0f-a156-39be6a3ead87">
   </a>
+</div>
 
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.yazareser.yks_yazar_eser" target="_blank" rel="noreferrer">
+    <img width="180" alt="yazar_eser_home" src="https://github.com/mrthnby/mrthnby/assets/72457200/0ce8b635-bae5-425c-ab3e-c62e08ae2852">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://apps.apple.com/tr/app/yazar-eser-yks-ayt-edebiyat/id6479536386?l" target="_blank" rel="noreferrer">
+    <img width="160" alt="yazar_eser_home" src="https://github.com/mrthnby/mrthnby/assets/72457200/1a48e530-2afb-405e-916f-4edd60c289aa">
+  </a>
 </div>
 
 <!---
