@@ -60,9 +60,9 @@
 </p>
 
 <div align="center">
-  Downloads: <strong>25k+</strong>
+  Downloads: <strong>35k+</strong>
   <br>
-Stars: <strong>4.5⭐</strong>
+Stars: <strong>4.6⭐</strong>
 </div>
 
 <div align="center">
@@ -79,7 +79,7 @@ Stars: <strong>4.5⭐</strong>
 
 <div align="center">
   <a href="https://apps.apple.com/tr/app/yazar-eser-yks-ayt-edebiyat/id6479536386?l" target="_blank" rel="noreferrer">
-    <img width="160" alt="yazar_eser_appstore" src="https://github.com/mrthnby/mrthnby/assets/72457200/1a48e530-2afb-405e-916f-4edd60c289aa">
+    <img width="159" alt="yazar_eser_appstore" src="https://github.com/mrthnby/mrthnby/assets/72457200/1a48e530-2afb-405e-916f-4edd60c289aa">
   </a>
 </div>
 
