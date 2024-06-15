@@ -60,7 +60,7 @@
 </p>
 
 <div align="center">
-  Downloads: <strong>35k+</strong>
+  Downloads: <strong>40k+</strong>
   <br>
 Stars: <strong>4.6⭐</strong>
 </div>
