@@ -19,32 +19,16 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://twitter.com/mrthnby" target="_blank" rel="noopener noreferrer" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrthnby" height="30" width="40" /></a>
+  <a href="https://twitter.com/mrthnby">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/480/000000/flutter.png" width=50>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,flutter,dart,firebase,bitbucket,figma,gcp,git,github,postman,sqlite,vscode" />
   </a>
-
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/480/000000/dart.png" width=50>
-  </a>
-
-  <a href="https://www.swift.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/480/000000/swift.png" width=50>
-  </a>
-  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/480/000000/swiftui.png" width=50></a>
-
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/480/000000/firebase.png" width=50>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-   <img src="https://img.icons8.com/color/480/000000/git.png" width=50>
-  </a>
-
 </p>
 
 <h3 align="center">My Apps</h3>
