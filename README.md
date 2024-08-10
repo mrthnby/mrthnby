@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  🌱 I’m currently learning <strong>Swift, Flutter</strong>
+  🌱 I’m currently learning <strong>SwiftUI</strong>
 </p>
 
 <p align="center">
-  💬 Ask me about <strong>Flutter, Dart</strong>
+  💬 Ask me about <strong>Flutter, SwiftUI, UIKit, Swift, Dart</strong>
 </p>
 
 <h3 align="center">Connect with me</h3>
