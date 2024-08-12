@@ -22,12 +22,15 @@
   <a href="https://twitter.com/mrthnby">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
+  <a href="https://www.linkedin.com/in/mertalihanbay/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,flutter,dart,firebase,bitbucket,figma,gcp,git,github,postman,sqlite,vscode" />
+    <img src="https://skillicons.dev/icons?i=swift,flutter,dart,firebase,bitbucket,figma,gcp,git,github,postman,sqlite,vscode,androidstudio,c,sass," />
   </a>
 </p>
 
