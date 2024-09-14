@@ -19,10 +19,10 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://twitter.com/mrthnby">
+  <a href="https://twitter.com/mrthnby" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/mertalihanbay/">
+  <a href="https://www.linkedin.com/in/mertalihanbay/" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
@@ -35,51 +35,18 @@
 </p>
 
 <h3 align="center">My Apps</h3>
-
-<div align="center">
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/72457200/218078410-f97307f5-d351-4937-9135-6d6dab4f6da6.png" alt="Yazar Eser: YKS, AYT Edebiyat" width="100" height="100" style="border-radius: 25px;">
-  </a>
+<div align=center>
+<img width=250 src="https://github.com/user-attachments/assets/4086406b-bb3c-4900-84fe-497529f372ca">
+ <img width=250 src="https://github.com/user-attachments/assets/44fb3420-b6db-4e7f-bd34-226f6ddd7adc">
 </div>
 
-<p align="center">
-  <a href="#" target="_blank" rel="noreferrer"><strong>Yazar Eser: YKS, AYT Edebiyat</strong></a>
-</p>
-
+<h3 align="center">Portfolio</h3>
 <div align="center">
-  Downloads: <strong>40k+</strong>
-  <br>
-Stars: <strong>4.6⭐</strong>
+  <a href="https://apps.apple.com/tr/developer/mert-ali-hanbay/id1736197351" style="text-decoration: none;">
+  <img src="https://www.svgrepo.com/show/303128/download-on-the-app-store-apple-logo.svg" alt="App Store" height="200">
+</a>  
+<a href="https://play.google.com/store/apps/dev?id=7463786309016429538" style="text-decoration: none;">
+  <img src="https://www.svgrepo.com/show/303139/google-play-badge-logo.svg" alt="Google Play" height="200">
+</a>
+
 </div>
-
-<div align="center">
-  <a href="#" target="_blank" rel="noreferrer">
-    <img width="250" alt="yazar_eser_home" src="https://github.com/mrthnby/mrthnby/assets/72457200/c78e989e-fcd6-4b0f-a156-39be6a3ead87">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.yazareser.yks_yazar_eser" target="_blank" rel="noreferrer">
-    <img width="180" alt="yazar_eser_playstore" src="https://github.com/mrthnby/mrthnby/assets/72457200/0ce8b635-bae5-425c-ab3e-c62e08ae2852">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://apps.apple.com/tr/app/yazar-eser-yks-ayt-edebiyat/id6479536386?l" target="_blank" rel="noreferrer">
-    <img width="159" alt="yazar_eser_appstore" src="https://github.com/mrthnby/mrthnby/assets/72457200/1a48e530-2afb-405e-916f-4edd60c289aa">
-  </a>
-</div>
-
-<!---
-
-<h3 align="center">My Stats</h3>
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=mrthnby&theme=onedark&hide_border=true&border_radius=4.7" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrthnby&show_icons=true&locale=en&theme=onedark&hide_border=true&border_radius=4.7" alt="Stats"/>
-</p>
-
--->
