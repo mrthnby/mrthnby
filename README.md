@@ -36,8 +36,9 @@
 
 <h3 align="center">My Apps</h3>
 <div align=center>
+<img width=250 src="https://github.com/user-attachments/assets/44fb3420-b6db-4e7f-bd34-226f6ddd7adc">
 <img width=250 src="https://github.com/user-attachments/assets/4086406b-bb3c-4900-84fe-497529f372ca">
- <img width=250 src="https://github.com/user-attachments/assets/44fb3420-b6db-4e7f-bd34-226f6ddd7adc">
+<img width=250 src="https://github.com/user-attachments/assets/5cbb722b-5d56-40ae-828f-7d26c2a2b410">
 </div>
 
 <h3 align="center">Portfolio</h3>
@@ -48,5 +49,4 @@
 <a href="https://play.google.com/store/apps/dev?id=7463786309016429538" style="text-decoration: none;">
   <img src="https://www.svgrepo.com/show/303139/google-play-badge-logo.svg" alt="Google Play" height="200">
 </a>
-
 </div>
