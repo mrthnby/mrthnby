@@ -30,7 +30,7 @@
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,flutter,dart,firebase,bitbucket,figma,gcp,git,github,postman,sqlite,vscode,androidstudio,c,sass," />
+    <img src="https://skillicons.dev/icons?i=swift,flutter,dart,firebase,bitbucket,figma,gcp,git,github,postman,sqlite,vscode,androidstudio,c,sass,js,ts,nodejs" />
   </a>
 </p>
 
