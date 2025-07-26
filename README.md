@@ -3,19 +3,7 @@
 </p>
 
 <h1 align="center">Hi <img src="https://github.com/mrthnby/mrthnby/assets/72457200/7b632147-6cdc-478d-ac09-9622a9cb73a0" width="40">, I'm Mert Ali</h1>
-<h3 align="center">Mobile Developer</h3>
-
-<p align="center">
-  🔭 I’m currently working on a Gym App
-</p>
-
-<p align="center">
-  🌱 I’m currently learning <strong>SwiftUI</strong>
-</p>
-
-<p align="center">
-  💬 Ask me about <strong>Flutter, SwiftUI, UIKit, Swift, Dart</strong>
-</p>
+<h2 align="center">Computer Engineer | Mobile Developer</h2>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
