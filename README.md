@@ -29,7 +29,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,sass,bash" />
+      <img src="https://skillicons.dev/icons?i=cpp,py,sass,bash,docker,grafana," />
   </a>
 </p>
 
